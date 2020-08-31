@@ -9,8 +9,8 @@
     text-decoration-color: black;
 }
 .centrado{
-    padding-right: 70px;
-    padding-left: 70px;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 .bg-total{
  background-color: #A88868;
@@ -28,3 +28,4 @@
 .separado{
     padding-bottom: 3px;
 }
+
